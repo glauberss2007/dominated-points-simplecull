@@ -1,7 +1,6 @@
 # Pratica I
 
 ## Simple Cull Algorithm
-
 Avalia a configuração, uma por uma, mantendo um conjunto de pareto Cmin ou Cmax.
 
 ![img.png](img/img.png)
